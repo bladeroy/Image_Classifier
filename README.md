@@ -1,5 +1,5 @@
 # Introduction:
-Create a custom Image Classifier that will train on the fly in the browser using Tensorflow.js. First we need to load and run a popular pre-trained model called MobileNet for image classification in the browser. Then use a technique called "transfer learning", which bootstraps our training with the pre-trained MobileNet model and customizes it to train for your application.
+Create a custom Image Classifier that will train on the fly in the browser using Tensorflow.js. First we need to load and run a popular pre-trained model called <b>MobileNet</b> for image classification in the browser. Then use a technique called <b>"Transfer learning"</b>, which bootstraps our training with the pre-trained MobileNet model and customizes it to train for your application.
 
 # Requirements:
 To complete this codelab, you will need:
